@@ -1,5 +1,3 @@
-```markdown
-
 - Base de bots em discord.js
 
 ---
